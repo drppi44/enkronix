@@ -90,3 +90,4 @@ required_quantity = 5
 ##### Решение 1 (через tableview): https://github.com/drppi44/enkronix/blob/master/apps/main/migrations/0003_auto_20191029_1947.py#L12 https://github.com/drppi44/enkronix/blob/master/apps/main/models.py#L22
 
 ##### Решение 2 (через model manager): https://github.com/drppi44/enkronix/blob/master/apps/main/models.py#L5
+##### Тесты: https://github.com/drppi44/enkronix/blob/master/apps/main/tests.py
